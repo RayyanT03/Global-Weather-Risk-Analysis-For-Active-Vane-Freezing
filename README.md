@@ -1,3 +1,5 @@
+See Powerpoint for Tableau Dashboards and Insights gathered
+
 # 🌍 Worldwide Weather Station Data (2005–2025)
 
 This project supports an investigation into vehicle vane malfunctions under varying weather conditions. The hypothesis is that environmental factors—such as temperature, precipitation, fog, dew, and wind—may contribute to vane performance issues. The objective is to extract, clean, and aggregate global weather data from 2005 to 2025 for visualization and analysis in Tableau. The user will then select relevant features to filter and will get a proportion of days where the weather condition occured.
